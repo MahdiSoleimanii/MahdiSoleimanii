@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdisoleimanii&label=Profile%20views&color=48b40e&style=flat" alt="mahdisoleimanii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdisoleimanii" alt="mahdisoleimanii" /></a> </p>
-
 - 🌱 I’m currently learning **R Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahdiSoleimanii](https://github.com/MahdiSoleimanii)
