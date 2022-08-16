@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdisoleimanii&label=Profile%20views&color=48b40e&style=flat" alt="mahdisoleimanii" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahdiSoleimanii?tab=repositories](https://github.com/MahdiSoleimanii?tab=repositories)
 
