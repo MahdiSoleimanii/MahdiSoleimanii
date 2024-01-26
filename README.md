@@ -11,11 +11,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahdi-soleimani-152623146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-soleimani-152623146" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19307552/mahdi-soleimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19307552/mahdi-soleimani" height="30" width="40" /></a>
-<a href="https://kaggle.com/mahdisoleimanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahdisoleimanii" height="30" width="40" /></a>
-<a href="https://medium.com/@mahdisoleimani101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahdisoleimani101" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mahdinerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahdinerd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahdi-soleimani-152623146" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-soleimani-152623146" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/19307552/mahdi-soleimani" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19307552/mahdi-soleimani" height="30" width="40" />
+</a>
+<a href="https://kaggle.com/mahdisoleimanii" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahdisoleimanii" height="30" width="40" />
+</a>
+<a href="https://medium.com/@mahdisoleimanii" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahdisoleimanii" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/mahdinerd" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahdinerd" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
